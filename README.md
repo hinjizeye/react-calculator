@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+link to this app:(https://react-calculator-orcin.vercel.app/)
+
 In the project directory, you can run:
 
 ### `yarn start`
